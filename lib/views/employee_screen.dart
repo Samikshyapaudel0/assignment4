@@ -204,7 +204,7 @@ class _EmployeeScreenState extends State<EmployeeScreen> {
 
               const SizedBox(height: 20),
 
-              // 🔥 BUTTON ROW (ADD + VIEW)
+              
               Row(
                 children: [
                   // ADD
@@ -271,7 +271,7 @@ class _EmployeeScreenState extends State<EmployeeScreen> {
                             ),
                             isThreeLine: true,
 
-                            // ✏️ + 🗑 BUTTONS
+                           
                             trailing: Wrap(
                               spacing: 8,
                               children: [
